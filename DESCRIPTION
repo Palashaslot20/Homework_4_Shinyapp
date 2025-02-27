@@ -2,7 +2,7 @@ Package: KMeansPackagePalash
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("Palash", "Aslot", , "palash.aslot@example.com", role = c("aut", "cre"))
+    person("Palash", "Aslot", , "palash.aslot@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
