@@ -13,3 +13,4 @@ calculate_kmeans <- function(data, centers) {
   result <- kmeans(data, centers = centers)
   return(result)
 }
+

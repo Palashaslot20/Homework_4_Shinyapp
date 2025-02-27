@@ -16,3 +16,4 @@ plot_kmeans <- function(kmeans_result, data) {
     ggplot2::theme_minimal() +
     ggplot2::labs(title = "K-Means Clustering", x = "X", y = "Y")
 }
+
